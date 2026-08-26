@@ -1,0 +1,19 @@
+{
+  "name": "mentors-marketplace",
+  "owner": {
+    "name": "Mitesh Patel"
+  },
+  "metadata": {
+    "description": "Private Claude Code marketplace for internal Mentor plugins."
+  },
+  "plugins": [
+    {
+      "name": "engineering-mentor",
+      "source": {
+        "source": "url",
+        "url": "git@github-personal:miteshpatel13/engineering-mentor.git"
+      },
+      "description": "Global engineering standards, Skills, Agents, SOPs, and development guidance for production software repositories."
+    }
+  ]
+}
