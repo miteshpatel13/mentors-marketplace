@@ -1,9 +1,0 @@
-{
-  "applicableRequirements": [
-    {
-      "ruleId": "child-y",
-      "classification": "prohibited_override"
-    }
-  ],
-  "noSeverityKeyAnywhere": true
-}

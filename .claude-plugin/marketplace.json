@@ -10,7 +10,10 @@
   "plugins": [
     {
       "name": "engineering-mentor",
-      "source": "./plugins/engineering-mentor",
+      "source": {
+        "source": "github",
+        "repo": "miteshpatel13/engineering-mentor"
+      },
       "description": "Production engineering standards, skills, agents, SOPs, security, testing, architecture, and development governance."
     }
   ]

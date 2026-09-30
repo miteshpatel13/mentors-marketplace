@@ -1,5 +1,0 @@
-- id: no-scope
-  rule: pagination-required
-  reason: missing scope field on purpose
-  owner: api-team
-  status: requested
