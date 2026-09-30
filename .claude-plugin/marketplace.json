@@ -15,6 +15,14 @@
         "repo": "miteshpatel13/engineering-mentor"
       },
       "description": "Production engineering standards, skills, agents, SOPs, security, testing, architecture, and development governance."
+    },
+    {
+      "name": "node-mentor",
+      "source": {
+        "source": "github",
+        "repo": "miteshpatel13/node-mentor"
+      },
+      "description": "Node.js + TypeScript workflows for Express and NestJS: lint/format on edit, typecheck and related Jest tests before Claude finishes, destructive-command guards, and skills for endpoints, debugging, dependency upgrades, and a quality gate."
     }
   ]
 }
