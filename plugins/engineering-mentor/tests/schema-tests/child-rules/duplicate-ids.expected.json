@@ -1,8 +1,0 @@
-{
-  "valid": false,
-  "error_codes": [
-    "E_DUPLICATE_RULE_ID",
-    "E_RULE_ID_FILENAME_MISMATCH"
-  ],
-  "warning_codes": []
-}
